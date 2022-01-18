@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "template-csharp-virtual-pet", "template-csharp-virtual-pet.csproj", "{2A3EF25B-1B99-48A4-9283-5E34E669F65B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "virtual-pet-tests", "virtual-pet-tests\virtual-pet-tests.csproj", "{A150D778-7FA6-4A7F-BA43-C71D16497EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3EF25B-1B99-48A4-9283-5E34E669F65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3EF25B-1B99-48A4-9283-5E34E669F65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3EF25B-1B99-48A4-9283-5E34E669F65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3EF25B-1B99-48A4-9283-5E34E669F65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A150D778-7FA6-4A7F-BA43-C71D16497EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A150D778-7FA6-4A7F-BA43-C71D16497EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A150D778-7FA6-4A7F-BA43-C71D16497EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A150D778-7FA6-4A7F-BA43-C71D16497EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15128C46-5732-42F9-856A-016B1ECD1F37}
+	EndGlobalSection
+EndGlobal
