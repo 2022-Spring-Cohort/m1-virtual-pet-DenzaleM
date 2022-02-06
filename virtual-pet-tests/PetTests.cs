@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using pet;
 using template_csharp_virtual_pet;
 
 namespace virtual_pet_tests
